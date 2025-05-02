@@ -18,8 +18,8 @@
 // const char* ssid = "Let's Rock";
 // const char* password = "09876543210";
 
-const char* ssid = "PPC18309-2.4G";
-const char* password = "Dpk@882658@@";               
+const char* ssid = "";
+const char* password = "";               
 
 // Web server credentials
 const char* webUsername = "admin";
@@ -34,12 +34,12 @@ const char* webPassword = "admin";
 // #define USER_NAME "varunkainth"
 
 // Telegram bot credentials
-#define BOT_TOKEN "7665868349:AAGZNaGxxeGX2Tkl5_tNjBbUtFPQvAQjy2Q"
-#define CHAT_ID "6481362471"
+#define BOT_TOKEN ""
+#define CHAT_ID ""
 
 // Firebase credentials
-#define FIREBASE_HOST "laserproject-fac89-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define DATABASE_SECRET "wXmLCfckvGXCbwY7b9PwTXOgV6DII4uyNB23aOUm"
+#define FIREBASE_HOST ""
+#define DATABASE_SECRET ""
 
 // System variables
 extern bool systemArmed;
